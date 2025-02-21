@@ -95,14 +95,14 @@ FinHub is an AI-powered financial platform designed to deliver personalized rese
 ## Demo
 
 Check out the demo video on YouTube to see FinHub in action:  
-[FinHub Demo Video](https://www.youtube.com/watch?v=YOUR_DEMO_VIDEO_URL)
+[FinHub Demo Video](https://youtu.be/jNQC1i-sfo4)
 
 ---
 
 ## Credits
 
 **Dev Chhabada** – FinHub Research Analyst  
-*Developed as part of the GEEKVISHWA 2.0 project for AIML, Problem Statement A6.*
+*This is just a Prototype, Developed as part of the GEEKVISHWA 2.0 project for AIML, Problem Statement A6.*
 
 ---
 
