@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 
 # WARNING: Do NOT expose your API key in production!
-openai.api_key = "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"
+openai.api_key = "api"
 
 @app.route('/api/news')
 def get_news():
