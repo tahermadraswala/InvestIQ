@@ -101,9 +101,9 @@ Check out the demo video on YouTube to see FinHub in action:
 
 ## Credits
 
-**Team Victory** – FinHub Research Analyst  
+**Dev Chhabada** – FinHub Research Analyst  
 *Developed as part of the GEEKVISHWA 2.0 project for AIML, Problem Statement A6.*
 
 ---
 
-*For more information or contributions, please contact [Your Contact Information].*
+*For more information or contributions, please contact [chhabadadev@gmail.com].*
