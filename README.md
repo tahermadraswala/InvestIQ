@@ -1,13 +1,5 @@
 # FinHub Research Analyst
 
-**Project Title:** FinHub  
-**Domain:** AIML  
-**Problem Statement ID:** A6 – Research Analyst  
-**Team ID:** U747IVK1  
-**Team Name:** Team Victory
-
----
-
 ## Overview
 
 FinHub is an AI-powered financial platform designed to deliver personalized research and real-time market insights. It integrates advanced sentiment analysis, predictive analytics, and financial planning tools to empower investors and borrowers with actionable intelligence. The platform aggregates company fundamentals, live stock data, and market news while offering dynamic predictions and risk assessments to support smarter investment decisions.
