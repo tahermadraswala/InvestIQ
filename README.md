@@ -1,8 +1,8 @@
-# FinHub Research Analyst
+# InvestIQ Research Analyst
 
 ## Overview
 
-FinHub is an AI-powered financial platform designed to deliver personalized research and real-time market insights. It integrates advanced sentiment analysis, predictive analytics, and financial planning tools to empower investors and borrowers with actionable intelligence. The platform aggregates company fundamentals, live stock data, and market news while offering dynamic predictions and risk assessments to support smarter investment decisions.
+InvestIQ is an AI-powered financial platform designed to deliver personalized research and real-time market insights. It integrates advanced sentiment analysis, predictive analytics, and financial planning tools to empower investors and borrowers with actionable intelligence. The platform aggregates company fundamentals, live stock data, and market news while offering dynamic predictions and risk assessments to support smarter investment decisions.
 
 ---
 
@@ -92,18 +92,12 @@ FinHub is an AI-powered financial platform designed to deliver personalized rese
 
 ---
 
-## Demo
 
-Check out the demo video on YouTube to see FinHub in action:  
-[FinHub Demo Video](https://youtu.be/jNQC1i-sfo4)
 
 ---
 
 ## Credits
 
-**Dev Chhabada** – FinHub Research Analyst  
-*This is just a Prototype, Developed as part of the GEEKVISHWA 2.0 project for AIML, Problem Statement A6.*
+**Taher Madraswala** – InvestIQ Research Analyst  
 
----
 
-*For more information or contributions, please contact [chhabadadev@gmail.com].*
