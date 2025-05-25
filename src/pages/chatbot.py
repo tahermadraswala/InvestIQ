@@ -8,7 +8,7 @@ CORS(app)
 
 # Configure Gemini API
 genai.configure(api_key='api')
-model = genai.GenerativeModel('gemini-1.0-pro')
+model = genai.GenerativeModel('api')
 
 def create_prompt(query):
     context = """You are MarketSense Assistant, an intelligent chatbot for users of the MarketSense platform. You help users with information about: - Stock and company details - Financial product pricing trends - Market sentiment and news impact - Real-time stock data and technical indicators - AI-based stock predictions and forecasts - Market analysis based on latest news and real-time data - Risk profiling and pricing adjustments for financial products - Relevant market news sources and sentiment analysis - And other market-related queries Please provide real-time, accurate, actionable insights based on the available data and analysis. Only answer what is specifically asked. for 5 seconds
